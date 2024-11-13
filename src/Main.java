@@ -10,6 +10,7 @@ public class Main {
         System.out.println("what pig1 says :");
         pig1.animalSound();
         pig1.sleep();
+        pig1.Location();
 
         Dog dog1 = new Dog();
         dog1.animalSound();
